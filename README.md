@@ -4,7 +4,7 @@
  - Click `Developer setting` on the left menu.
  - Click `Personal access tokens : Tokens (classic)` on the left menu.
  - Click `Generate new token : Generate new token (classic)` in the top of
- - THIS LINE IS LESSON2
+ - THIS LINE IS LESSON4
 screen.
  - Fill `note` as a small text to distinguish tokens.
  - Check `repo`.
